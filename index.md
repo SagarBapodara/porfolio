@@ -7,11 +7,11 @@ Making Data Useful, Machines Smarter & Applications Accessible
 
 ## Skills
 
-- Programming: Python, SQL, MATLAB, HTML, CSS, JavaScript, C++
-- Libraries: Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, SciKit-Learn, SciPy, Librosa, OpenCV
-- Frameworks: Streamlit, Django, Flask, PyQT, PySimpleGUI
-- Tools: MS Office Suite, Power BI, Tableau, VS Code, PyCharm, JupyterLab, GIT, Github, SQLite, Postman, Jira Software
-- Platforms: Amazon Web Services (AWS), Mircosoft Azure, Google Cloud Platform, Arduino, Raspberry
+- **Programming:** Python, SQL, MATLAB, HTML, CSS, JavaScript, C++
+- **Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, SciKit-Learn, SciPy, Librosa, OpenCV
+- **Frameworks:** Streamlit, Django, Flask, PyQT, PySimpleGUI
+- **Tools:** MS Office Suite, Power BI, Tableau, VS Code, PyCharm, JupyterLab, GIT, Github, SQLite, Postman, Jira Software
+- **Platforms:** Amazon Web Services (AWS), Mircosoft Azure, Google Cloud Platform, Arduino, Raspberry
 
 ## Education
 - M.Eng, Computer and Electrical Engineering @ [University Of Windsor](https://www.uwindsor.ca/) || (_Jan 2023 - May 2024_)
