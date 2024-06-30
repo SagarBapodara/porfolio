@@ -54,7 +54,7 @@ Recent graduate with a strong passion for data analysis, software engineering, a
 - Designed a siren sound classification model using machine learning & audio processing, achieving approximately 95.7% accuracy, deployed on hardware with TensorFlow Lite.
 - Created a vehicle detection - classification model optimized for emergency vehicles, (ACC. 69%), supported by a queuing theory-based cost function to enhance algorithm efficiency.
 
-### 2. Machine Learning based Sleep Apnea Detection || [View Project](https://www.sciencedirect.com/science/article/pii/S235291482200168X?via%3Dihub)
+### 2. ML based Sleep Apnea Detection || [View Project](https://www.sciencedirect.com/science/article/pii/S235291482200168X?via%3Dihub)
 > _Tech Stack: MATLAB, Python3, Scikit-Learn, MS Azure AI Platform_
 
 - Developed a novel approach for detecting sleep apnea using only airflow sensors for nulliparous women
