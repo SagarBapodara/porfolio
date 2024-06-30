@@ -14,7 +14,7 @@ Making Data Useful, Machines Smarter & Applications Accessible
 - **Platforms:** Amazon Web Services (AWS), Mircosoft Azure, Google Cloud Platform, Arduino, Raspberry
 
 ## Education
-- M.Eng, Computer & Electrical Engineering @ [University Of Windsor](https://www.uwindsor.ca/) || (_Jan'23 - May'24_)
+- M.Eng, Computer & Electrical Engg. @ [University Of Windsor](https://www.uwindsor.ca/) || (_Jan'23 - May'24_)
         		
 - B.Tech, Electrical Engg. with Minors in Computer Science @ [IITRAM](https://iitram.ac.in/), Ahmedabad (_Sept'18 - May'22_)	 			        		
 
