@@ -69,5 +69,6 @@ Making Data Useful, Machines Smarter & Applications Accessible
 - Achieved a testing accuracy of 88%, model integrated with GUI and deployed on the server for real-time usage.
 
 ## Publications
-1. S. Bapodara, S. Mesvani, M. Chaturvedi, and P. Rajput, “Traffic congestion and emergency vehicle responsive traffic signal control in resource-constrained environment,” 2023 11th International Symposium on Electronic Systems Devices and Computing (ESDC), 2023. [doi:10.1109/esdc56251.2023.10149873](https://ieeexplore.ieee.org/document/10149873)
+
+- S. Bapodara, S. Mesvani, M. Chaturvedi, and P. Rajput, “Traffic congestion and emergency vehicle responsive traffic signal control in resource-constrained environment,” 2023 11th International Symposium on Electronic Systems Devices and Computing (ESDC), 2023. [doi:10.1109/esdc56251.2023.10149873](https://ieeexplore.ieee.org/document/10149873)
 -----------------------------------------------------------------------------------------------------------------------------------
