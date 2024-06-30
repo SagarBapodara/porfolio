@@ -14,9 +14,9 @@ Recent graduate with a strong passion for data analysis, software engineering, a
 - **Platforms:** Amazon Web Services (AWS), Mircosoft Azure, Google Cloud Platform, Arduino, Raspberry
 
 ## Education
-- M.Eng, Computer & Electrical Engg. @ [University Of Windsor](https://www.uwindsor.ca/) || (_Jan'23 - May'24_)
+- M.Eng, Computer & Electrical Engg. @ [University Of Windsor](https://www.uwindsor.ca/) || (_Jan 2023 - May 2024_)
         		
-- B.Tech, Electrical Engg. with Minors in Computer Science @ [IITRAM](https://iitram.ac.in/), Ahmedabad || _Sept'18 - May'22_)
+- B.Tech, Electrical Engg. with Minors in Computer Science @ [IITRAM](https://iitram.ac.in/), Ahmedabad || (_Sept 2018 - May 2022_)
 
 
 ## Work Experience
