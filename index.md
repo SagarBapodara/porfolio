@@ -2,179 +2,69 @@
 layout: default
 ---
 
-# Data Scientist
+## Skills
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Programming: Python, SQL, MATLAB, HTML, CSS, JavaScript, C++
+#### Libraries: Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, SciKit-Learn, SciPy, Librosa, OpenCV
+#### Frameworks: Streamlit, Django, Flask, PyQT, PySimpleGUI
+#### Tools: MS Office Suite, Power BI, Tableau, VS Code, PyCharm, JupyterLab, GIT, Github, SQLite, Postman, Jira Software
+#### Platforms: Amazon Web Services (AWS), Mircosoft Azure, Google Cloud Platform, Arduino, Raspberry
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.Eng, Computer and Electrical Engineering @ [University Of Windsor](https://www.uwindsor.ca/) || (_Jan 2023 - May 2024_)								       		
+- B.Tech, Electrical Engg. with Minors in Computer Science	@ IITRAM, Ahmedabad (_May 2022_)	 			        		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Developer @ Bizgull Inc (_Dec 2021 - Dec 2022_)**
+> - Built full-stack web applications utilizing WordPress, Javascript, etc, with plugins, libraries, and frameworks.
+> - Integrated third-party APIs and web services to enhance website functionality and facilitate data exchange.
+> - Conducted extensive testing and debugging procedures to ensure the reliability of cloud applications.
+
+**Undergraduate Researcher (AI-ML) & Analytics @ IITRAM, Ahmedabad (_Aug 2021 - May 2022_)**
+> - Employed advanced machine learning audio processing and computer vision techniques to develop a siren sound detection, achieving 95.7% testing accuracy. Deployed the model on Raspberry Pi interfaced with a sound sensor.
+> - Utilized deep learning-based object detection frameworks (versions of YOLO) & and Darknet53 architecture to develop a custom vehicle detection & and classification model. (Accuracy ~ 69%)
+> - Designed a queuing theory-based cost function to develop & and optimize the traffic light control (TLC) algorithm. Developed the TLC algorithm, and performed optimization & and case-wise simulations.
+
+**Intern - Data Science & Analytics @ Reliance Industries Limited (_May 2021 - Aug 2021_)**
+> - Performed in-depth statistical data analysis and developed PowerBI dashboards for insights.
+> - Formulated & improved time series models; 87% for petroleum production & 75% for waste segregation.
+> - Implemented a web-based application for continuous monitoring, utilizing data from over 50 sensors.
+
+**Web Development Intern @ Youth India Foundation (_Nov 2020 - Feb 2021_)**
+> - Built an online end-to-end seamless onboarding system for new registrations during events. Handled server load-balancing during peak usage.
+> - Extended website's compatibility to mobiles, and tablets by making components responsive & enabling caching. Led a team 25+ of web developers, graphic designers, and social media managers.
+> - Developed designs for various community websites under the organization.
+
+**Resarch Intern (Machine Learning) @ Indian Institute of Technology, Madras (_May 2020 - Jul 2020_)**
+> - Worked on the project ‘Computer-Vision based Sketch Image Retrieval’ using advanced machine learning techniques and OpenCV library. 
+> - Implemented an advanced version of the triplet loss function to minimize the losses in the actual and produced sketched image. Minimized the reconstruction losses up to 40% and improved the mean average precision score by approx—15%.
+> - Assisted with the implementation of deep sketch hashing and adversarial autoencoders on the dataset for evaluation and assessment purposes with the proposed methodologies.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### 1. Smart Traffic Control || [View Project](https://ieeexplore.ieee.org/document/10149873)
+> _Tech Stack: Python3, Librosa, Tensorflow, Streamlit, Arduino, SQL, YOLO_
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Developed a resource-efficient traffic control system to manage congestion and emergency vehicle priorities.
+- Designed a siren sound classification model using machine learning & audio processing, achieving approximately 95.7% accuracy, deployed on hardware with TensorFlow Lite.
+- Created a vehicle detection - classification model optimized for emergency vehicles, (ACC. 69%), supported by a queuing theory-based cost function to enhance algorithm efficiency.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### 2. Machine Learning based Sleep Apnea Detection || [View Project](https://www.sciencedirect.com/science/article/pii/S235291482200168X?via%3Dihub)
+> _Tech Stack: MATLAB, Python3, Scikit-Learn, MS Azure AI Platform_
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+- Developed a novel approach for detecting sleep apnea using only airflow sensors for nulliparous women
+- Utilized the NuMOM2b database (316 GB) for comprehensive model training, validation, and testing
+- Performed extensive data preprocessing, cleaning and analysis to develop a suitable training dataset. Employed digital signal processing techniques such as wavelets, and filters for feature extraction.
+- Implemented ensemble classifiers, data sampling, and balancing methods to ensure a robust model and facilitate result comparison and validation. Achieved a testing accuracy of 83%. 
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### 3. Coursera Course Recommendation System || [View Project](https://github.com/SagarBapodara/Coursera-Course-Recommendation-System)
+> _Tech Stack: Python3, Streamlit, Scikit-Learn, Matplotlib, Seaborn, AWS_
 
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- Implemented a course recommendation system, utilizing the 3000 courses from the Coursera Courses dataset
+- Employed machine learning, natural language processing (NLP) and collaborative filtering techniques to enhance the accuracy of the recommendation system.
+- Achieved a testing accuracy of 88%, model integrated with GUI and deployed on the server for real-time usage.
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
+1. **S. Bapodara**, S. Mesvani, M. Chaturvedi, and P. Rajput, “Traffic congestion and emergency vehicle responsive traffic signal control in resource-constrained environment,” 2023 11th International Symposium on Electronic Systems Devices and Computing (ESDC), 2023. [doi:10.1109/esdc56251.2023.10149873](https://ieeexplore.ieee.org/document/10149873)
+2. M. Sharma, **S. Bapodara**, J. Tiwari, and U. R. Acharya, “Automated sleep apnea detection in pregnant women using wavelet-based features,” Informatics in Medicine Unlocked, vol. 32, p. 101026, 2022. [doi:10.1016/j.imu.2022.101026](https://www.sciencedirect.com/science/article/pii/S235291482200168X?via%3Dihub)
 -----------------------------------------------------------------------------------------------------------------------------------
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
