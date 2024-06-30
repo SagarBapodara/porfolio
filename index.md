@@ -14,8 +14,8 @@ Making Data Useful, Machines Smarter & Applications Accessible
 - **Platforms:** Amazon Web Services (AWS), Mircosoft Azure, Google Cloud Platform, Arduino, Raspberry
 
 ## Education
-- M.Eng, Computer and Electrical Engineering @ [University Of Windsor](https://www.uwindsor.ca/) || (_Jan 2023 - May 2024_)
-            		
+- M.Eng, Computer & Electrical Engineering @ [University Of Windsor](https://www.uwindsor.ca/) || (_Jan 2023 - May 2024_)
+        		
 - B.Tech, Electrical Engg. with Minors in Computer Science	@ [IITRAM](https://iitram.ac.in/), Ahmedabad (_May 2022_)	 			        		
 
 ## Work Experience
@@ -69,7 +69,6 @@ Making Data Useful, Machines Smarter & Applications Accessible
 - Achieved a testing accuracy of 88%, model integrated with GUI and deployed on the server for real-time usage.
 
 ## Publications
-1. **S. Bapodara**, S. Mesvani, M. Chaturvedi, and P. Rajput, “Traffic congestion and emergency vehicle responsive traffic signal control in resource-constrained environment,” 2023 11th International Symposium on Electronic Systems Devices and Computing (ESDC), 2023. [doi:10.1109/esdc56251.2023.10149873](https://ieeexplore.ieee.org/document/10149873)
-   
-2. M. Sharma, **S. Bapodara**, J. Tiwari, and U. R. Acharya, “Automated sleep apnea detection in pregnant women using wavelet-based features,” Informatics in Medicine Unlocked, vol. 32, p. 101026, 2022. [doi:10.1016/j.imu.2022.101026](https://www.sciencedirect.com/science/article/pii/S235291482200168X?via%3Dihub)
+1. S. Bapodara, S. Mesvani, M. Chaturvedi, and P. Rajput, “Traffic congestion and emergency vehicle responsive traffic signal control in resource-constrained environment,” 2023 11th International Symposium on Electronic Systems Devices and Computing (ESDC), 2023. [doi:10.1109/esdc56251.2023.10149873](https://ieeexplore.ieee.org/document/10149873)
+2. M. Sharma, S. Bapodara, J. Tiwari, and U. R. Acharya, “Automated sleep apnea detection in pregnant women using wavelet-based features,” Informatics in Medicine Unlocked, vol. 32, p. 101026, 2022. [doi:10.1016/j.imu.2022.101026](https://www.sciencedirect.com/science/article/pii/S235291482200168X?via%3Dihub)
 -----------------------------------------------------------------------------------------------------------------------------------
