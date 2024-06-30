@@ -16,7 +16,7 @@ Making Data Useful, Machines Smarter & Applications Accessible
 ## Education
 - M.Eng, Computer & Electrical Engg. @ [University Of Windsor](https://www.uwindsor.ca/) || (_Jan'23 - May'24_)
         		
-- B.Tech, Electrical Engg. with Minors in Computer Science @ [IITRAM](https://iitram.ac.in/), Ahmedabad (_Sept'18 - May'22_)	 			        		
+- B.Tech, Electrical Engg. with Minors in Computer Science @ [IITRAM](https://iitram.ac.in/), Ahmedabad || (_Sept'18 - May'22_)	 			        		
 
 ## Work Experience
 
