@@ -10,8 +10,8 @@ Recent graduate with a strong passion for data analysis, software engineering, a
 - **Programming:** Python, SQL, MATLAB, HTML, CSS, JavaScript, C++
 - **Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, SciKit-Learn, SciPy, Librosa, OpenCV
 - **Frameworks:** Streamlit, Django, Flask, PyQT, PySimpleGUI
-- **Tools:** MS Office Suite, Power BI, Tableau, VS Code, PyCharm, JupyterLab, GIT, Github, SQLite, Postman, Jira Software
-- **Platforms:** Amazon Web Services (AWS), Mircosoft Azure, Google Cloud Platform, Arduino, Raspberry
+- **Tools:** MS Office Suite, Power BI, Tableau, VS Code, PyCharm, JupyterLab, GIT, Github, SQLite, Postman, Slack, Jira Software
+- **Platforms:** Amazon Web Services (AWS), Mircosoft Azure, Google Cloud Platform, Wix, WordPress, Arduino, Raspberry, Adobe Analytics
 
 ## Education
 - M.Eng, Computer & Electrical Engg. @ [University Of Windsor, Ontario, Canada](https://www.uwindsor.ca/) || (_Jan 2023 - May 2024_)
@@ -22,9 +22,10 @@ Recent graduate with a strong passion for data analysis, software engineering, a
 ## Work Experience
 
 **Developer @ Bizgull Inc (_Dec 2021 - Dec 2022_)**
-> - Built full-stack web applications utilizing WordPress, Javascript, etc, with plugins, libraries, and frameworks.
-> - Integrated third-party APIs and web services to enhance website functionality and facilitate data exchange.
-> - Conducted extensive testing and debugging procedures to ensure the reliability of cloud applications.
+> - Built full-stack web applications utilizing WordPress, Wix, Javascript, etc, with plugins, libraries, and frameworks.
+> - Integrated APIs and web services, to enhance functionality, achieving a 15% improvement in performance.
+> - Conducted extensive testing and debugging, resulting in a ~ 25% reduction in post-deployment issues.
+> - Analyzed website and web traffic data to optimize user engagement and SEO, increasing organic traffic by ~ 30%
 
 **Undergraduate Researcher (AI-ML) & Analytics @ IITRAM, Ahmedabad (_Aug 2021 - May 2022_)**
 > - Employed advanced machine learning audio processing and computer vision techniques to develop a siren sound detection, achieving 95.7% testing accuracy. Deployed the model on Raspberry Pi interfaced with a sound sensor.
