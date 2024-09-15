@@ -3,7 +3,7 @@ layout: default
 ---
 ## About Me
 
-Master's graduate with a strong passion for data analysis, software engineering, and machine learning. Equipped with solid technical and communication skills, eager to apply analytical techniques and innovative solutions to real-world problems. Seeking opportunities to grow and contribute in dynamic tech environments.
+Master’s graduate with 2+ years of experience in data analysis, software engineering, and machine learning. Equipped with solid technical and communication skills, eager to apply analytical techniques and innovative solutions to real-world problems. Seeking opportunities to grow and contribute in dynamic tech environments.
 
 ## Skills
 
