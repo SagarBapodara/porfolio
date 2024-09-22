@@ -23,8 +23,8 @@ Master’s graduate with 2+ years of experience in data analysis, software engin
 
 **Developer @ Bizgull Inc (_Dec 2021 - Dec 2022_)**
 > - Built full-stack web applications utilizing WordPress, Javascript, etc, with plugins, libraries, and frameworks.
-> - Collaborated with external stakeholders to integrate third-party APIs, enhancing data exchange and user experience.
-> - Directed testing and debugging efforts for cloud applications, greatly enhancing system reliability and performance.
+> - Analyzed website and web traffic data to optimize user engagement and SEO, increasing organic traffic by ~30%.
+> - Directed testing and debugging efforts for cloud applications, achieving a ~25% improvement in system performance.
 
 **Undergraduate Researcher (AI-ML) & Analytics @ IITRAM, Ahmedabad (_Aug 2021 - May 2022_)**
 > - Developed a siren sound detection system using machine learning and computer vision with 95.7% accuracy, deployed on
