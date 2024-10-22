@@ -7,7 +7,7 @@ Master’s graduate with 2+ years of experience in data analysis, software engin
 
 ## Skills
 
-- **Programming:** Python, SQL, MATLAB, HTML, CSS, Javascript, C++
+- **Programming:** Python, SQL, MATLAB, HTML, CSS, Javascript
 - **Libraries:** SciKit-Learn, Tensorflow, Plotly, Pandas, Numpy, Matplotlib, Seaborn, Streamlit, Django, Flask
 - **Frameworks:** Streamlit, Django, Flask, PyQT, PySimpleGUI
 - **Tools:** MS Office Suite, Excel, PowerPoint, Power BI, Tableau, VS Code, PyCharm, JupyterLab, GIT, Github, Postman, Jira Software
@@ -22,20 +22,20 @@ Master’s graduate with 2+ years of experience in data analysis, software engin
 ## Work Experience
 
 **Developer @ Bizgull Inc (_Dec 2021 - Dec 2022_)**
-> - Built full-stack web applications utilizing WordPress, Javascript, etc, with plugins, libraries, and frameworks.
-> - Analyzed website and web traffic data to optimize user engagement and SEO, increasing organic traffic by ~30%.
-> - Directed testing and debugging efforts for cloud applications, achieving a ~25% improvement in system performance.
+> - Developed and maintained cloud-based web applications using WordPress, JavaScript, and other frameworks, focusing on business objectives and client requirements.
+> - Analyzed web traffic data using BI Tools to optimize user engagement and SEO, increasing organic traffic by ~30%.
+> - Implemented a test automation framework, enhancing the quality assurance process and reducing testing time by ~40%.
 
 **Undergraduate Researcher (AI-ML) & Analytics @ IITRAM, Ahmedabad (_Aug 2021 - May 2022_)**
-> - Developed a siren sound detection system using machine learning and computer vision with 95.7% accuracy, deployed on
-Raspberry Pi with a sound sensor.
+> - Developed a siren sound detection system using machine learning and computer vision with 95.7% accuracy.
 > - Created a custom vehicle detection and classification model using YOLO and Darknet 53 (~69% real-time accuracy).
-> - Designed & improved traffic light control algorithm based on a queuing theory cost function (~25% reduction in wait times).
+> - Optimized deep learning models by implementing efficient data structures and algorithms, reducing inference time by 15%.
+> - Designed & improved traffic light control algorithm based on a queuing theory cost function (~25% reduction in wait times)
 
 **Intern - Data Science & Analytics @ Reliance Industries Limited (_May 2021 - Aug 2021_)**
-> - Performed in-depth statistical data analysis, and developed & handled 10+ PowerBI dashboards for insights.
-> - Formulated time series models; improved accuracy by 87% for petroleum production & close to 75% for waste segregation.
-> - Developed a web application for continuous monitoring, and analysis utilizing data from over 50 sensors for key stakeholders.
+> - Performed in-depth statistical analysis, & handled 10+ PowerBI dashboards for data visualization and business analytics.
+> - Formulated time series models using advanced mathematics and data analytics, improving accuracy by ~87% in petroleum production forecasting and ~75% in waste segregation.
+> - Developed a Rest API-based web application for continuous monitoring, utilizing live data from over 50 sensors.
 
 **Web Development Intern @ Youth India Foundation (_Nov 2020 - Feb 2021_)**
 > - Built an online end-to-end seamless onboarding system for new registrations during events. Handled server load-balancing during peak usage.
@@ -51,10 +51,9 @@ Raspberry Pi with a sound sensor.
 ### 1. Walmart Sales Analysis & Forecasting || [View Project](https://shorturl.at/hRi7X)
 > _Tech Stack: Python3, Scikit-Learn, Statsmodels, Plotly_
 
-- Performed extensive data analysis and visualization on data (2010–2013), combining features from over 45 stores.
-- Developed robust models utilizing Random Forest and XGBoost, achieving an R2 of 0.97 for weekly sales predictions.
-- Leveraged insights to develop a SARIMA-based forecasting model, achieving 89.9% accuracy in predicting future sales based
-on store features and regional activity.
+- Performed extensive regression analysis and visualization of data (2010–2013), combining features from over 45 stores.
+- Developed robust models (R² ~ 0.97) utilizing ML algorithms, employing statistics and propensity modelling techniques.
+- Leveraged insights to develop a SARIMA-based forecasting model, achieving 89.9% accuracy in predicting future sales.
   
 ### 2. Smart Traffic Control || [View Project](https://ieeexplore.ieee.org/document/10149873)
 > _Tech Stack: Python3, Librosa, Tensorflow, Streamlit, Arduino, SQL, YOLO_
@@ -75,9 +74,9 @@ on store features and regional activity.
 ### 4. Coursera Course Recommendation System || [View Project](https://github.com/SagarBapodara/Coursera-Course-Recommendation-System)
 > _Tech Stack: Python3, Streamlit, Scikit-Learn, Matplotlib, Seaborn, AWS_
 
-- Implemented a course recommendation system, utilizing the 3000 courses from the Coursera Courses dataset
-- Employed machine learning, natural language processing (NLP) and collaborative filtering techniques to enhance the accuracy of the recommendation system.
-- Achieved a testing accuracy of 88%; further integrated the model with GUI and deployed it on the server for real-time usage.
+- Implemented a course recommendation system, utilizing the 3,000 courses from the Coursera Courses dataset.
+- Employed machine learning, natural language processing (NLP), data modeling and collaborative filtering techniques to enhance the accuracy of the recommendation system.
+- Achieved a testing accuracy of 88%, further model integrated with GUI and deployed on the server for real-time usage.
 
 ## Publications
 
