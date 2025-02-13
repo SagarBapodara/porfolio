@@ -3,71 +3,90 @@ layout: default
 ---
 ## About Me
 
-Master's graduate with a strong passion for data analysis, software engineering, and machine learning. Equipped with solid technical and communication skills, eager to apply analytical techniques and innovative solutions to real-world problems. Seeking opportunities to grow and contribute in dynamic tech environments.
+Master’s graduate with 2+ years of experience in data analysis, software engineering, and machine learning. Equipped with solid technical and communication skills, eager to apply analytical techniques and innovative solutions to real-world problems. Seeking opportunities to grow and contribute in dynamic environments.
 
 ## Skills
 
-- **Programming:** Python, SQL, MATLAB, HTML, CSS, JavaScript, C++
-- **Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, SciKit-Learn, SciPy, Librosa, OpenCV
+- **Programming:** Python, SQL, MATLAB, HTML, CSS, Javascript 
+- **Libraries:** SciKit-Learn, Tensorflow, Plotly, Pandas, Numpy, Matplotlib, Seaborn, Streamlit, Django, Flask
 - **Frameworks:** Streamlit, Django, Flask, PyQT, PySimpleGUI
-- **Tools:** MS Office Suite, Power BI, Tableau, VS Code, PyCharm, JupyterLab, GIT, Github, SQLite, Postman, Jira Software
-- **Platforms:** Amazon Web Services (AWS), Mircosoft Azure, Google Cloud Platform, Arduino, Raspberry
+- **Tools:** MS Office Suite, Excel, PowerPoint, Power BI, Tableau, VS Code, PyCharm, JupyterLab, GIT, Github, Postman, Jira Software
+- **Platforms:** Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform, Arduino, Raspberry, Firebase, Google Analytics
 
 ## Education
-- M.Eng, Computer & Electrical Engg. @ [University Of Windsor](https://www.uwindsor.ca/) || (_Jan 2023 - May 2024_)
+- M.Eng, Computer & Electrical Engg. @ [University Of Windsor, Ontario, Canada](https://www.uwindsor.ca/) || (_Jan 2023 - May 2024_)
         		
 - B.Tech, Electrical Engg. with Minors in Computer Science @ [IITRAM](https://iitram.ac.in/), Ahmedabad || (_Sept 2018 - May 2022_)
 
 
 ## Work Experience
 
+**Data Management Analyst @ SellerPlex | (_May 2023 - Nov 2024_)**
+> - Developed and automated reports using SQL, Python, and MS Excel to track key performance indicators (KPIs). 
+> - Built and maintained visualization dashboards (Tableau) to provide insights to senior leadership, enhancing decision-making. 
+> - Supported the integration of 3rd party data sources (Amazon & Google Analytics) into internal databases for data reporting. 
+
+**BI Developer @ RPA Unicorn (_Aug 2023 - July 2024_)**
+> - Developed BI solutions using Power BI & Tableau for external clients enabling real-time insights into business performance. 
+> - Developed ETL pipelines to handle & analyze data from multiple sources, including SQL databases, MS Azure, & RPA logs. 
+> - Optimized RPA performance monitoring by automating data collection, reducing manual efforts by 50%.
+
 **Developer @ Bizgull Inc (_Dec 2021 - Dec 2022_)**
-> - Built full-stack web applications utilizing WordPress, Javascript, etc, with plugins, libraries, and frameworks.
-> - Integrated third-party APIs and web services to enhance website functionality and facilitate data exchange.
-> - Conducted extensive testing and debugging procedures to ensure the reliability of cloud applications.
+> - Developed and maintained cloud-based web applications using WordPress, JavaScript, and other frameworks, focusing on business objectives and client requirements.
+> - Analyzed web traffic data using BI Tools to optimize user engagement and SEO, increasing organic traffic by ~30%.
+> - Implemented a test automation framework, enhancing the quality assurance process and reducing testing time by ~40%.
 
 **Undergraduate Researcher (AI-ML) & Analytics @ IITRAM, Ahmedabad (_Aug 2021 - May 2022_)**
-> - Employed advanced machine learning audio processing and computer vision techniques to develop a siren sound detection, achieving 95.7% testing accuracy. Deployed the model on Raspberry Pi interfaced with a sound sensor.
-> - Utilized deep learning-based object detection frameworks (versions of YOLO) & and Darknet53 architecture to develop a custom vehicle detection & and classification model. (Accuracy ~ 69%)
-> - Designed a queuing theory-based cost function to develop & and optimize the traffic light control (TLC) algorithm. Developed the TLC algorithm, and performed optimization & and case-wise simulations.
+> - Developed a siren sound detection system using machine learning and computer vision with 95.7% accuracy.
+> - Created a custom vehicle detection and classification model using YOLO and Darknet 53 (~69% real-time accuracy).
+> - Optimized deep learning models by implementing efficient data structures and algorithms, reducing inference time by 15%.
+> - Designed & improved traffic light control algorithm based on a queuing theory cost function (~25% reduction in wait times)
 
 **Intern - Data Science & Analytics @ Reliance Industries Limited (_May 2021 - Aug 2021_)**
-> - Performed in-depth statistical data analysis and developed PowerBI dashboards for insights.
-> - Formulated & improved time series models; 87% for petroleum production & 75% for waste segregation.
-> - Implemented a web-based application for continuous monitoring, utilizing data from over 50 sensors.
+> - Performed in-depth statistical analysis, & handled 10+ PowerBI dashboards for data visualization and business analytics.
+> - Formulated time series models using advanced mathematics and data analytics, improving accuracy by ~87% in petroleum production forecasting and ~75% in waste segregation.
+> - Developed a Rest API-based web application for continuous monitoring, utilizing live data from over 50 sensors.
 
 **Web Development Intern @ Youth India Foundation (_Nov 2020 - Feb 2021_)**
 > - Built an online end-to-end seamless onboarding system for new registrations during events. Handled server load-balancing during peak usage.
 > - Extended website's compatibility to mobiles, and tablets by making components responsive & enabling caching. Led a team 25+ of web developers, graphic designers, and social media managers.
 > - Developed designs for various community websites under the organization.
 
-**Resarch Intern (Machine Learning) @ Indian Institute of Technology, Madras (_May 2020 - Jul 2020_)**
+**Research Intern (Machine Learning) @ Indian Institute of Technology, Madras (_May 2020 - Jul 2020_)**
 > - Worked on the project ‘Computer-Vision based Sketch Image Retrieval’ using advanced machine learning techniques and OpenCV library. 
 > - Implemented an advanced version of the triplet loss function to minimize the losses in the actual and produced sketched image. Minimized the reconstruction losses up to 40% and improved the mean average precision score by approx—15%.
 > - Assisted with the implementation of deep sketch hashing and adversarial autoencoders on the dataset for evaluation and assessment purposes with the proposed methodologies.
 
 ## Projects
-### 1. Smart Traffic Control || [View Project](https://ieeexplore.ieee.org/document/10149873)
+### 1. Walmart Sales Analysis & Forecasting || [View Project](https://shorturl.at/hRi7X)
+> _Tech Stack: Python3, Scikit-Learn, Statsmodels, Plotly_
+
+- Performed extensive regression analysis and visualization of data (2010–2013), combining features from over 45 stores.
+- Developed robust models (R² ~ 0.97) utilizing ML algorithms, employing statistics and propensity modelling techniques.
+- Leveraged insights to develop a SARIMA-based forecasting model, achieving 89.9% accuracy in predicting future sales.
+  
+### 2. Smart Traffic Control || [View Project](https://ieeexplore.ieee.org/document/10149873)
 > _Tech Stack: Python3, Librosa, Tensorflow, Streamlit, Arduino, SQL, YOLO_
 
-- Developed a resource-efficient traffic control system to manage congestion and emergency vehicle priorities.
-- Designed a siren sound classification model using machine learning & audio processing, achieving approximately 95.7% accuracy, deployed on hardware with TensorFlow Lite.
-- Created a vehicle detection - classification model optimized for emergency vehicles, (ACC. 69%), supported by a queuing theory-based cost function to enhance algorithm efficiency.
+- Developed a low-cost-resource-efficient traffic control system to manage congestion and prioritize emergency vehicles.
+- Designed a siren sound classification model with 95.7% accuracy, deployed on hardware with TensorFlow Lite.
+- Created an emergency vehicle detection model (69% accuracy), enhanced by a queuing theory-based cost function.
 
-### 2. Machine Learning based Sleep Apnea Detection || [View Project](https://www.sciencedirect.com/science/article/pii/S235291482200168X?via%3Dihub)
+### 3. Novel ML-Based Sleep Apnea Detection || [View Project](https://www.sciencedirect.com/science/article/pii/S235291482200168X?via%3Dihub)
 > _Tech Stack: MATLAB, Python3, Scikit-Learn, MS Azure AI Platform_
 
-- Developed a novel approach for detecting sleep apnea using only airflow sensors for nulliparous women
-- Utilized the NuMOM2b database (316 GB) for comprehensive model training, validation, and testing
-- Performed extensive data preprocessing, cleaning and analysis to develop a suitable training dataset. Employed digital signal processing techniques such as wavelets, and filters for feature extraction.
-- Implemented ensemble classifiers, data sampling, and balancing methods to ensure a robust model and facilitate result comparison and validation. Achieved a testing accuracy of 83%. 
+- Developed a novel sleep apnea detection method for nulliparous women using only airflow sensors achieving 83% accuracy.
+- Leveraged Microsoft Azure to manage a 316 GB NuMOM2b database for training, validating, and testing models.
+- Performed extensive data preprocessing, cleaning and analysis to develop a suitable training dataset—employed digital signal processing techniques such as wavelets, and filters for feature extraction.
+- Employed digital signal processing techniques and ensemble classifiers for robust results (F1 score: 0.91).
+- Implemented ensemble classifiers, data sampling, and balancing methods to ensure a robust model and facilitate result comparison and validation, achieving a testing accuracy of 83%. 
 
-### 3. Coursera Course Recommendation System || [View Project](https://github.com/SagarBapodara/Coursera-Course-Recommendation-System)
+### 4. Coursera Course Recommendation System || [View Project](https://github.com/SagarBapodara/Coursera-Course-Recommendation-System)
 > _Tech Stack: Python3, Streamlit, Scikit-Learn, Matplotlib, Seaborn, AWS_
 
-- Implemented a course recommendation system, utilizing the 3000 courses from the Coursera Courses dataset
-- Employed machine learning, natural language processing (NLP) and collaborative filtering techniques to enhance the accuracy of the recommendation system.
-- Achieved a testing accuracy of 88%, model integrated with GUI and deployed on the server for real-time usage.
+- Implemented a course recommendation system, utilizing the 3,000 courses from the Coursera Courses dataset.
+- Employed machine learning, natural language processing (NLP), data modeling and collaborative filtering techniques to enhance the accuracy of the recommendation system.
+- Achieved a testing accuracy of 88%, further model integrated with GUI and deployed on the server for real-time usage.
 
 ## Publications
 
