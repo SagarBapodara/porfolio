@@ -21,7 +21,7 @@ Master’s graduate with 2+ years of experience in data analysis, software engin
 
 ## Work Experience
 
-**Data Management Analyst @ SellerPlex | (Freelance) (_May 2023 - Nov 2024_)**
+**Data Management Analyst @ SellerPlex | (_May 2023 - Nov 2024_)**
 > - Developed and automated reports using SQL, Python, and MS Excel to track key performance indicators (KPIs). 
 > - Built and maintained visualization dashboards (Tableau) to provide insights to senior leadership, enhancing decision-making. 
 > - Supported the integration of 3rd party data sources (Amazon & Google Analytics) into internal databases for data reporting. 
