@@ -10,7 +10,7 @@ Master’s graduate with 2+ years of experience in data analysis, software engin
 - **Programming:** Python, SQL, MATLAB, HTML, CSS, Javascript 
 - **Libraries:** SciKit-Learn, Tensorflow, Plotly, Pandas, Numpy, Matplotlib, Seaborn, Streamlit, Django, Flask
 - **Frameworks:** Streamlit, Django, Flask, PyQT, PySimpleGUI
-- **Tools:** MS Office Suite, Excel, PowerPoint, Power BI, Tableau, VS Code, PyCharm, JupyterLab, GIT, Github, Postman, Jira Software
+- **Tools:** MS Office Suite, Excel, PowerPoint, Power BI, Tableau, VS Code, PyCharm, JupyterLab, GIT, Github, Postman, Zendesk, Jira Software
 - **Platforms:** Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform, Arduino, Raspberry, Firebase, Google Analytics
 
 ## Education
@@ -21,12 +21,7 @@ Master’s graduate with 2+ years of experience in data analysis, software engin
 
 ## Work Experience
 
-**Data Management Analyst @ SellerPlex | (_May 2023 - Nov 2024_)**
-> - Developed and automated reports using SQL, Python, and MS Excel to track key performance indicators (KPIs). 
-> - Built and maintained visualization dashboards (Tableau) to provide insights to senior leadership, enhancing decision-making. 
-> - Supported the integration of 3rd party data sources (Amazon & Google Analytics) into internal databases for data reporting. 
-
-**BI Developer @ RPA Unicorn (_Aug 2023 - July 2024_)**
+**BI Developer @ RPA Unicorn (_Aug 2023 - Present_)**
 > - Developed BI solutions using Power BI & Tableau for external clients enabling real-time insights into business performance. 
 > - Developed ETL pipelines to handle & analyze data from multiple sources, including SQL databases, MS Azure, & RPA logs. 
 > - Optimized RPA performance monitoring by automating data collection, reducing manual efforts by 50%.
