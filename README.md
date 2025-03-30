@@ -10,7 +10,7 @@ Master’s graduate with 2+ years of experience in data analysis, software engin
 - **Programming:** Python, SQL, MATLAB, HTML, CSS, Javascript 
 - **Libraries:** SciKit-Learn, Tensorflow, Plotly, Pandas, Numpy, Matplotlib, Seaborn, Streamlit, Django, Flask
 - **Frameworks:** Streamlit, Django, Flask, PyQT, PySimpleGUI
-- **Tools:** MS Office Suite, Excel, PowerPoint, Power BI, Tableau, VS Code, PyCharm, JupyterLab, GIT, Github, Postman, Jira Software
+- **Tools:** MS Office Suite, Excel, PowerPoint, Power BI, Tableau, VS Code, PyCharm, JupyterLab, GIT, Github, Postman, Zendesk, Jira Software
 - **Platforms:** Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform, Arduino, Raspberry, Firebase, Google Analytics
 
 ## Education
@@ -21,26 +21,20 @@ Master’s graduate with 2+ years of experience in data analysis, software engin
 
 ## Work Experience
 
-**Data Management Analyst @ SellerPlex | (_May 2023 - Nov 2024_)**
-> - Developed and automated reports using SQL, Python, and MS Excel to track key performance indicators (KPIs). 
-> - Built and maintained visualization dashboards (Tableau) to provide insights to senior leadership, enhancing decision-making. 
-> - Supported the integration of 3rd party data sources (Amazon & Google Analytics) into internal databases for data reporting. 
-
-**BI Developer @ RPA Unicorn (_Aug 2023 - July 2024_)**
+**BI Developer @ RPA Unicorn (_Aug 2023 - Present_)**
 > - Developed BI solutions using Power BI & Tableau for external clients enabling real-time insights into business performance. 
 > - Developed ETL pipelines to handle & analyze data from multiple sources, including SQL databases, MS Azure, & RPA logs. 
 > - Optimized RPA performance monitoring by automating data collection, reducing manual efforts by 50%.
 
 **Developer @ Bizgull Inc (_Dec 2021 - Dec 2022_)**
 > - Developed and maintained cloud-based web applications using WordPress, JavaScript, and other frameworks, focusing on business objectives and client requirements.
+> - Acted as the first point of contact for IT and technical issues, resolving 90% of support tickets within SLA timelines.
 > - Analyzed web traffic data using BI Tools to optimize user engagement and SEO, increasing organic traffic by ~30%.
 > - Implemented a test automation framework, enhancing the quality assurance process and reducing testing time by ~40%.
 
 **Undergraduate Researcher (AI-ML) & Analytics @ IITRAM, Ahmedabad (_Aug 2021 - May 2022_)**
-> - Developed a siren sound detection system using machine learning and computer vision with 95.7% accuracy.
-> - Created a custom vehicle detection and classification model using YOLO and Darknet 53 (~69% real-time accuracy).
-> - Optimized deep learning models by implementing efficient data structures and algorithms, reducing inference time by 15%.
-> - Designed & improved traffic light control algorithm based on a queuing theory cost function (~25% reduction in wait times)
+> - Conducted research on AI-driven solutions, developing a smart traffic control system and a novel sleep apnea detection model with 95.7% and 83% accuracy, respectively.
+> - Built and deployed ML models using TensorFlow, MATLAB, and Azure, leveraging signal processing and deep learning for real-world applications.
 
 **Intern - Data Science & Analytics @ Reliance Industries Limited (_May 2021 - Aug 2021_)**
 > - Performed in-depth statistical analysis, & handled 10+ PowerBI dashboards for data visualization and business analytics.
@@ -85,13 +79,21 @@ Master’s graduate with 2+ years of experience in data analysis, software engin
 > _Tech Stack: Python3, Streamlit, Scikit-Learn, Matplotlib, Seaborn, AWS_
 
 - Implemented a course recommendation system, utilizing the 3,000 courses from the Coursera Courses dataset.
-- Employed machine learning, natural language processing (NLP), data modeling and collaborative filtering techniques to enhance the accuracy of the recommendation system.
-- Achieved a testing accuracy of 88%, further model integrated with GUI and deployed on the server for real-time usage.
+- Employed machine learning, natural language processing (NLP), data modelling and collaborative filtering techniques to enhance the accuracy of the recommendation system.
+- Achieved a testing accuracy of 88%, further integrated the model with GUI and deployed on the server for real-time usage.
+
+## Professional Certifications
+
+- Microsoft Certified: [Azure Fundamentals (AZ - 900)](https://learn.microsoft.com/api/credentials/share/en-us/SagarBapodara-6406/1AFCC794E7DD04C0?sharingId=ED5218D878984636)
+
+- Microsoft Certified: [Azure AI Fundamentals (AI - 900)](https://learn.microsoft.com/api/credentials/share/en-us/SagarBapodara-6406/DE19871DEC4BDD46?sharingId=ED5218D878984636)
+
+- Microsoft Certified: [Azure Data Fundamentals (DP - 900)](https://learn.microsoft.com/api/credentials/share/en-us/SagarBapodara-6406/1E8C6FC1DEC86EB?sharingId=ED5218D878984636) 
 
 ## Publications
 
-- S. Bapodara, S. Mesvani, M. Chaturvedi, and P. Rajput, “Traffic congestion and emergency vehicle responsive traffic signal control in resource-constrained environment,” 2023 11th International Symposium on Electronic Systems Devices and Computing (ESDC), 2023. [doi:10.1109/esdc56251.2023.10149873](https://ieeexplore.ieee.org/document/10149873)
+- **S. Bapodara**, S. Mesvani, M. Chaturvedi, and P. Rajput, “Traffic congestion and emergency vehicle responsive traffic signal control in resource-constrained environment,” 2023 11th International Symposium on Electronic Systems Devices and Computing (ESDC), 2023. [doi:10.1109/esdc56251.2023.10149873](https://ieeexplore.ieee.org/document/10149873)
   
-- M. Sharma, S. Bapodara, J. Tiwari, and U. R. Acharya, “Automated sleep apnea detection in pregnant women using wavelet-based features,” Informatics in Medicine Unlocked, vol. 32, p. 101026, 2022. [doi:10.1016/j.imu.2022.101026](https://www.sciencedirect.com/science/article/pii/S235291482200168X?via%3Dihub)
+- M. Sharma, **S. Bapodara**, J. Tiwari, and U. R. Acharya, “Automated sleep apnea detection in pregnant women using wavelet-based features,” Informatics in Medicine Unlocked, vol. 32, p. 101026, 2022. [doi:10.1016/j.imu.2022.101026](https://www.sciencedirect.com/science/article/pii/S235291482200168X?via%3Dihub)
 
 -----------------------------------------------------------------------------------------------------------------------------------
