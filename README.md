@@ -7,11 +7,11 @@ Master’s graduate with 2+ years of experience in data analysis, software engin
 
 ## Skills
 
-- **Programming:** Python, SQL, MATLAB, HTML, CSS, Javascript 
-- **Libraries:** SciKit-Learn, Tensorflow, Plotly, Pandas, Numpy, Matplotlib, Seaborn, Streamlit, Django, Flask
-- **Frameworks:** Streamlit, Django, Flask, PyQT, PySimpleGUI
-- **Tools:** MS Office Suite, Excel, PowerPoint, Power BI, Tableau, VS Code, PyCharm, JupyterLab, GIT, Github, Postman, Zendesk, Jira Software
+- **Programming:** Python, SQL, MATLAB, HTML, CSS, JavaScript
+- **Libraries/Frameworks:** SciKit-Learn, Tensorflow, Pandas, Numpy, Matplotlib, Seaborn, Streamlit, Data Wrangling, Django, Flask
+- **Tools:** MS Office Suite, Excel, PowerPoint, Power BI, Tableau, VS Code, Zendesk, JupyterLab, GIT, Github, Postman, Jira Software
 - **Platforms:** Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform, Arduino, Raspberry, Firebase, Google Analytics
+
 
 ## Education
 - M.Eng, Computer & Electrical Engg. @ [University Of Windsor, Ontario, Canada](https://www.uwindsor.ca/) || (_Jan 2023 - May 2024_)
@@ -21,7 +21,12 @@ Master’s graduate with 2+ years of experience in data analysis, software engin
 
 ## Work Experience
 
-**BI Developer @ RPA Unicorn (_Aug 2023 - Present_)**
+**Data Analyst @ Avenu Insights & Analytics (_April 2025 - Present_)**
+> - Identified over 5,000 non-compliant short-term rental properties across 12 states by analyzing fragmented datasets.
+> - Developed and maintained Tableau dashboards to visualize regional rental trends, occupancy rates, and tax discrepancies, aiding local governments in recovering underreported revenues.
+> - Documented research findings in a web portal for efficient data retrieval, ensuring accuracy and quality through cross-referencing and supporting evidence.
+
+**BI Developer @ RPA Unicorn (_Aug 2023 - April 2025_)**
 > - Developed BI solutions using Power BI & Tableau for external clients enabling real-time insights into business performance. 
 > - Developed ETL pipelines to handle & analyze data from multiple sources, including SQL databases, MS Azure, & RPA logs. 
 > - Optimized RPA performance monitoring by automating data collection, reducing manual efforts by 50%.
