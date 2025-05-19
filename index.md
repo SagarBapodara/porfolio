@@ -22,15 +22,14 @@ Master’s graduate with 2+ years of experience in data analysis, software engin
 ## Work Experience
 
 **BI Developer @ RPA Unicorn (_Aug 2023 - Present_)**
-> - Developed BI solutions using Power BI & Tableau for external clients, enabling real-time insights into business performance. 
-> - Developed ETL pipelines to handle & analyze data from multiple sources, including SQL databases, MS Azure, & RPA logs. 
-> - Optimized RPA performance monitoring by automating data collection, reducing manual efforts by 50%.
+> - Developed custom BI solutions for external clients using Power BI and Tableau, providing real-time insights. 
+> - Designed and optimized data pipelines using SQL and Python to process large-scale structured and unstructured data. 
+> - Optimized RPA performance monitoring by automating data collection (NLP), reducing manual efforts by 50%. 
 
-**Developer @ Bizgull Inc (_Dec 2021 - Dec 2022_)**
-> - Developed and maintained cloud-based web applications using WordPress, JavaScript, and other frameworks, focusing on business objectives and client requirements.
-> - Acted as the first point of contact for IT and technical issues, resolving 90% of support tickets within SLA timelines.
-> - Analyzed web traffic data using BI Tools to optimize user engagement and SEO, increasing organic traffic by ~30%.
-> - Implemented a test automation framework, enhancing the quality assurance process and reducing testing time by ~40%.
+**Technical Support Engineer @ Bizgull Inc (_Dec 2021 - Dec 2022_)**
+> - Provided application support for full-stack web applications, ensuring minimal downtime and high availability. 
+> - Acted as the first point of contact for IT and technical issues, resolving 90% of support tickets within SLA timelines. 
+> - Managed customer technical inquiries via Jira and Zendesk, escalating complex issues to the development team.
 
 **Undergraduate Researcher (AI-ML) & Analytics @ IITRAM, Ahmedabad (_Aug 2021 - May 2022_)**
 > - Conducted research on AI-driven solutions, developing a smart traffic control system and a novel sleep apnea detection model with 95.7% and 83% accuracy, respectively.
@@ -39,7 +38,7 @@ Master’s graduate with 2+ years of experience in data analysis, software engin
 **Intern - Data Science & Analytics @ Reliance Industries Limited (_May 2021 - Aug 2021_)**
 > - Performed in-depth statistical analysis, & handled 10+ PowerBI dashboards for data visualization and business analytics.
 > - Formulated time series models using advanced mathematics and data analytics, improving accuracy by ~87% in petroleum production forecasting and ~75% in waste segregation.
-> - Developed a Rest API-based web application for continuous monitoring, utilizing live data from over 50 sensors.
+> - Developed a REST API-based web application for continuous monitoring, utilizing live data from over 50 sensors.
 
 **Web Development Intern @ Youth India Foundation (_Nov 2020 - Feb 2021_)**
 > - Built an online end-to-end seamless onboarding system for new registrations during events. Handled server load-balancing during peak usage.
