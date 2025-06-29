@@ -1,6 +1,3 @@
----
-layout: default
----
 ## About Me
 
 Master’s graduate with 2+ years of experience in data analysis, software engineering, and machine learning. Equipped with solid technical and communication skills, eager to apply analytical techniques and innovative solutions to real-world problems. Seeking opportunities to grow and contribute in dynamic environments.
@@ -83,11 +80,13 @@ Master’s graduate with 2+ years of experience in data analysis, software engin
 
 ## Professional Certifications
 
-- Microsoft Certified: [Azure Fundamentals (AZ - 900)](https://learn.microsoft.com/api/credentials/share/en-us/SagarBapodara-6406/1AFCC794E7DD04C0?sharingId=ED5218D878984636)
+- Microsoft Certified: [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/SagarBapodara-6406/1AFCC794E7DD04C0?sharingId=ED5218D878984636)
 
-- Microsoft Certified: [Azure AI Fundamentals (AI - 900)](https://learn.microsoft.com/api/credentials/share/en-us/SagarBapodara-6406/DE19871DEC4BDD46?sharingId=ED5218D878984636)
+- Microsoft Certified: [Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-us/SagarBapodara-6406/DE19871DEC4BDD46?sharingId=ED5218D878984636)
 
-- Microsoft Certified: [Azure Data Fundamentals (DP - 900)](https://learn.microsoft.com/api/credentials/share/en-us/SagarBapodara-6406/1E8C6FC1DEC86EB?sharingId=ED5218D878984636) 
+- Microsoft Certified: [Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/en-us/SagarBapodara-6406/1E8C6FC1DEC86EB?sharingId=ED5218D878984636)
+
+> 📚 [Preparation Resources for these certifications](https://github.com/SagarBapodara/Certification-Prep-Resources) ☝️
 
 ## Publications
 
