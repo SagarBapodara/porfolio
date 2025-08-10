@@ -20,11 +20,11 @@ Master’s graduate with 2+ years of experience in data analysis, software engin
 
 
 ## Work Experience
-
+<!---
 **BI Developer @ RPA Unicorn (_Aug 2023 - Present_)**
 > - Developed custom BI solutions for external clients using Power BI and Tableau, providing real-time insights. 
 > - Designed and optimized data pipelines using SQL and Python to process large-scale structured and unstructured data. 
-> - Optimized RPA performance monitoring by automating data collection (NLP), reducing manual efforts by 50%. 
+> - Optimized RPA performance monitoring by automating data collection (NLP), reducing manual efforts by 50%. -->
 
 **Technical Support Engineer @ Bizgull Inc (_Dec 2021 - Dec 2022_)**
 > - Provided application support for full-stack web applications, ensuring minimal downtime and high availability. 
